@@ -1,0 +1,36 @@
+body{
+	
+
+
+}
+
+.main-nav{
+	background:#eee;
+}
+ul{
+	display: flex; /*to enable the flexbox
+
+*/
+		/*flex-direction: row-reverse;*/
+		}
+li{
+	list-style: none;
+	padding: 20px;
+}
+
+.push{
+	margin-left: auto;
+}
+
+.test{
+	border: 1px solid grey;
+}
+
+.test2{
+	background: #ccc !important;
+
+}
+
+.test2{
+	background: blue;
+}
